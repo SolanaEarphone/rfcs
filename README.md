@@ -28,6 +28,7 @@ Many changes, including bug fixes and documentation improvements, can be impleme
 ## Current RFCs
 
 - [0001: Voice-First Agent Architecture](text/0001-voice-first-agent-architecture.md)
+- [0002: Speech-to-Speech Voice Conversion for Solana Earphone](text/0002-speech-to-speech-voice-conversion.md)
 
 ## Implementation Status
 
