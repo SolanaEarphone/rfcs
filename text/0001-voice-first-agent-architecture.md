@@ -229,11 +229,3 @@ class AgentExecutionLoop {
 1. Solana Earphone Hardware Specifications
 2. Voice Processing Standards (ITU-T P.800)
 3. Agent Architecture Best Practices
-
-## Authors
-
-[Your Name]
-
-## Changelog
-
-- 2024-03-xx: Initial draft
