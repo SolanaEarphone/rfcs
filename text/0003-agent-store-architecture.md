@@ -226,11 +226,3 @@ class AgentDeployment {
 1. App Store Best Practices
 2. Voice Agent Distribution Standards
 3. Secure Marketplace Implementation Guidelines
-
-## Authors
-
-[Your Name]
-
-## Changelog
-
-- 2024-03-xx: Initial draft 
